@@ -8,6 +8,7 @@ This function can help answer questions such as, how many different tree species
 
 There are two files in this repository including the .md and .rmd files for my assignment. 
 
-#Assignment-B2
+#group.unique
 
+This folder contains my work for assignment B-2.
 This assignment demonstrated my ability to wrap my function. Since assignment-B1, I had to rename my function due to formatting issues and I updated the package to include package dependencies. 
